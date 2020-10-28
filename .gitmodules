@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
-	url = git@github.com-dev:DevSebastianSoto/P3-Examen-backend.git
+	url = git@github.com:DevSebastianSoto/P3-Examen-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:DevSebastianSoto/P3-Examen-frontend.git
